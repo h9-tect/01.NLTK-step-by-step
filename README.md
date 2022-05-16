@@ -18,9 +18,9 @@
 
 NLP Library | Description
 ------------|------------
-            |
-            |
-            |
+NLTK        |This is one of the most usable and mother of all NLP libraries.
+spaCy       |This is a completely optimized and highly accurate library widely used in deep learning
+Stanford CoreNLP Python |For client-server-based architecture, this is a good library in NLTK. This is written in JAVA, but it provides modularity to use it in Python.
             |
             |
             |
