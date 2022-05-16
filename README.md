@@ -26,6 +26,6 @@ Genism      |Genism is a robust open source NLP library support in Python. This 
  Vocabulary	|This library is best to get Semantic type information from the given text.
 PyNLPl	|PyNLPI also was known as ‘Pineapple’ and supports Python. It provides a parser for many data formats like FoLiA/Giza/Moses/ARPA/Timbl/CQL.
 
-Polyglot	|For massive multilingual applications, Polyglot is best suitable NLP library. Feature extraction in the way on Identity and Entity.
+Polyglot   	|For massive multilingual applications, Polyglot is best suitable NLP library. Feature extraction in the way on Identity and Entity.
 Pattern     |It is a light-weighted NLP module. This is generally used in Web-mining, crawling or such type of spidering task. p
 
