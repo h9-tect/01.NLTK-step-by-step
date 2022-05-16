@@ -17,3 +17,12 @@
 ## Various NLP Libraries
 
 NLP Library | Description
+------------|------------
+            |
+            |
+            |
+            |
+            |
+            |
+            |
+            |
